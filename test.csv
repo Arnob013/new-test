@@ -1,6 +1,6 @@
 #group,false,false,true,false,false
 #datatype,string,dateTime:number,string,string,double
-#default,_result,,,,,,
+#default,_result,,,,
 ,result,time,_measurement,user_label,_value
 ,,1509957000,MYFDKYMAO1A,PDCHKYAAO1A(B)/MYFDKYMAO1A(A),17.6
 ,,1509957000,MYFDKYMAO1A,MRRYKYMAO1Y(A)/MYFDKYMAO1A(B),12.0
