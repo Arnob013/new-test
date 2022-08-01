@@ -2,4 +2,4 @@
 #datatype,string,dateTime:RFC3339,string,string,double
 #default,_result,,,,
 ,result,time,_measurement,user_label,_value
-,,2022-02-01T00:00:11Z,MYFDKYMAO1A,PDCHKYAAO1A(B)/MYFDKYMAO1A(A),17.6
+,,2020-05-15T18:47:46.649639Z,MYFDKYMAO1A,PDCHKYAAO1A(B)/MYFDKYMAO1A(A),17.6
